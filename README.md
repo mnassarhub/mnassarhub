@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋
+I'm Mohamed Nassar, working as a web developer 🔭on freelancer websites
 
 <!--
 **mnassarhub/mnassarhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
